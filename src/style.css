@@ -1,5 +1,42 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(142, 255, 170);
+}
+
+h1{
+    position: relative;
+    font-family: "Rubik Bubbles";
+    margin-top: 50px;
+    margin-left: 500px;
+   justify-content: center;
+   align-items: center;
+}
+img{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-left:450px;
+    
+}
+
+.areaText{
+    background : violet;
+    font-family: "Rubik Bubbles";
+    font-size: xx-large;
+    position:relative;
+    justify-content: center;
+    border-radius: 200px;
+}
+p{
+    padding: 20px;
+
+}
+
+footer{
+    font-size: smaller;
+    justify-content: right;
+    color:blue;
+    margin-left:90%;
+
 }
